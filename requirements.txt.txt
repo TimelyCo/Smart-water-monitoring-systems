@@ -1,0 +1,9 @@
+# Core data science libraries
+pandas>=2.0.3
+numpy>=1.26.4
+scikit-learn>=1.4.2
+xgboost>=2.0.3
+
+# Optional: For development or additional features (uncomment if used)
+# matplotlib>=3.8.0  # For plotting feature importance (future enhancement)
+# seaborn>=0.13.0    # For visualization (if added later)
